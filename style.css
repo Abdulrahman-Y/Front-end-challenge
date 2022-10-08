@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  background-color: lightgray;
+  position: absolute;
+  left: 30%;
+}
+.big-container{
+  background-color: white;
+  border-radius: 15px;
+  margin: 20px 0 0 0;
+  height: 400px;
+  width: 280px;
+}
+img{
+  border-radius: 25px;
+  padding: 15px;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+.small-container{
+  border-radius: 15px;
+  height: 150px;
+  width: 10px;
+}
+h4{
+  color: rgb(5, 41, 107);
+  font: 1em sans-serif;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-inline: 25px;
+  text-align: center;
+}
+p{
+  color: lightgray;
+  font: sans-serif;
+  margin-inline: 20px;
+  text-align: center;
+}
